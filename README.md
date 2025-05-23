@@ -1,1 +1,1 @@
-# kabootarbakery link is : https://github.com/shlok612/kabootarbakery.git
+# kabootarbakery link is : https://shlok612.github.io/kabootarbakery/
